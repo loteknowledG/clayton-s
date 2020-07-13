@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/clayton-s/static/css/main.5f361e03.chunk.css",
+    "main.js": "/clayton-s/static/js/main.1a03fd6d.chunk.js",
+    "main.js.map": "/clayton-s/static/js/main.1a03fd6d.chunk.js.map",
+    "runtime-main.js": "/clayton-s/static/js/runtime-main.1965228a.js",
+    "runtime-main.js.map": "/clayton-s/static/js/runtime-main.1965228a.js.map",
+    "static/js/2.4a47fd33.chunk.js": "/clayton-s/static/js/2.4a47fd33.chunk.js",
+    "static/js/2.4a47fd33.chunk.js.map": "/clayton-s/static/js/2.4a47fd33.chunk.js.map",
+    "index.html": "/clayton-s/index.html",
+    "precache-manifest.d6e7a2c6418a5f7391bef5a339587a87.js": "/clayton-s/precache-manifest.d6e7a2c6418a5f7391bef5a339587a87.js",
+    "service-worker.js": "/clayton-s/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/clayton-s/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4a47fd33.chunk.js.LICENSE.txt": "/clayton-s/static/js/2.4a47fd33.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/clayton-s/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1965228a.js",
+    "static/js/2.4a47fd33.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1a03fd6d.chunk.js"
+  ]
+}
